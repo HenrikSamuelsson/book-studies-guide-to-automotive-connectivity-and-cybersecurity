@@ -2,7 +2,7 @@
 
 > What is meant by the term _global automotive market_?
 
-Global automotive market describes the total volume of car sales, estimated or actual, a given year, in the entire world.
+Global automotive market describes the total volume of car sales, estimated or actual for a given year or period, in the entire world.
 
 > Describe some key aspects of the global automotive market.
 
