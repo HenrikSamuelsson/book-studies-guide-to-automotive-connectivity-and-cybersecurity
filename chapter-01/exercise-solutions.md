@@ -2,7 +2,7 @@
 
 > What is meant by the term _global automotive market_?
 
-Global automotive market describes the total volume of car sales, estimated or actual for a given year or period, in the entire world.
+Global automotive market describes the total volume of car sales, estimated or actual, for a given year or period, in the entire world.
 
 The number of cars produced each year have grown for many years in a row. Now roughly 100 million cars are produced each year. There are likely more than 1 billion cars in use in the world. Meaning a ratio of about 8 to 1 between humans and cars so we are still far away from every human owning a car of their own.
 
